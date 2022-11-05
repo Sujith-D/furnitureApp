@@ -1,6 +1,6 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:furniture/UI/homePage.dart';
+import 'package:furniture/UI/homePage/homePage.dart';
 import 'package:furniture/data/provider.dart';
 import 'package:furniture/model/apifile.dart';
 import 'package:provider/provider.dart';
